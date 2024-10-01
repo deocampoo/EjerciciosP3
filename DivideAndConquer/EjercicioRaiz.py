@@ -32,3 +32,9 @@ x = 74
 resultado = RaizEntera(p, ini, fin, x)
 
 print(resultado)
+
+
+
+"""
+El costo de este algoritmo es de O(Log n). 
+"""
