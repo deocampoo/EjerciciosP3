@@ -4,9 +4,6 @@ un vector A de n enteros, un elemento x se denomina mayoritario de A si x
 aparece en el vector A más de n/2 veces. Considerar que no puede haber más
 de un elemento mayoritario.
 """
-
-
-
 def ElementoMayoritario(ini, fin, l):
     if ini == fin: #Caso base 
         return l[ini]

@@ -29,3 +29,5 @@ ini = 0
 fin = len(v) - 1
 resultado = pico(v, ini, fin)
 print("Elemento mayoritario:", resultado)
+
+#O(N LOG N)
